@@ -73,4 +73,5 @@
     <dimen name="large_favorite_height">68dp</dimen>
 
     <dimen name="popup_title">12sp</dimen>
+    <dimen name="result_no_icon_size">0dp</dimen>
 </resources>
